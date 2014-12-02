@@ -54,6 +54,6 @@ docs/_build/
 target/
 
 # Dev stuff
-*.gdb
+dev.gdb
 config.py
 output/
