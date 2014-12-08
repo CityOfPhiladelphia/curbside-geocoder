@@ -5,7 +5,7 @@ A tool to build reference data for a curbside ArcGIS geocoder
 
 ## Overview
 
-A typical geocoder will return the location of an address by interpolating along a street centerline. A curb geocoder enhances this process by locating to the curb line of a specific parcel. This provides more accurate results and is useful for locating street-adjacent assets such as streetlights, fire hydrants, and arborial resources. As an alternative to curbs, you can also supply building footprints to estimate front door of a building.
+A typical geocoder will return the location of an address by interpolating along a street centerline. A curb geocoder enhances this process by locating to the curb line of a specific parcel. This provides more accurate results and is useful for locating street-adjacent assets such as streetlights, fire hydrants, and trees. As an alternative to curbs, you can also supply building footprints to estimate front door of a building.
 
 In the graphic below, the red points show where the geocoder will locate to when searching for a given address (green points).
 
