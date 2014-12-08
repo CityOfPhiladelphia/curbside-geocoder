@@ -80,4 +80,4 @@ If any of these appear, the address was not processed and will need to be looked
 
 ## Feedback
 
-Have a bug or suggestion? Go ahead and submit an issue!
+If you have any questions or comments, feel free to open an issue.
