@@ -1,4 +1,4 @@
-curb-geocoder
+curbside-geocoder
 ==================
 
 A tool to build reference data for a curbside ArcGIS geocoder
